@@ -118,7 +118,8 @@ footer{ margin:28px 0 10px; text-align:center; color:var(--muted); font-size:.96
   <article class="card">
     <h3>تواصل</h3>
     <p>
-البريد للتعاونات: <a href="mailto:Business.Abathar@gmail.com">Business.Abathar@gmail.com</a>
+      البريد للتعاونات: <a href="mailto:contact@ah9x.dev">contact@ah9x.dev</a>
+    </p>
   </article>
 </section>
 
